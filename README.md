@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a company<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a company<br>👯 I’m a Junior Backend Developer<br>🤝 I’m looking for help with<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
