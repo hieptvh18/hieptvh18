@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a company<br>👯 I’m a Junior Backend Developer<br>🤝 I’m looking for work PHP Developer<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about: PHP, Laravel, Magento 2, Javascript, Vue3, Linux...<br>⚡ Fun fact
+🔭 I’m currently working on a company and Freelancer Dev<br>👯 I’m a Backend Developer<br>🤝 I’m looking for work PHP Developer<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about: PHP, Laravel, Magento 2, Javascript, Vue3, Linux, Docker, K8s...<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
